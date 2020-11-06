@@ -7,9 +7,14 @@ Streamin Device: Slingbox M1 (https://www.slingbox.jp/product/m1/overview.html)
 Remote control file made by myself: http://www.hifi-remote.com/forums/dload.php?action=file&file_id=25623
 Player software: Slingplayer (https://www.slingbox.jp/product/slingplayer.html)
 The system allows to watch 60+ channels of Japanese TV program live or recorded.
+Other connected devices:
+Network HDD- RECBOX 4TB HVL-AAS4 (https://www.amazon.co.jp/gp/product/B07VJZWW7H)
+USB HDD - I-O DATA HDD EX-HD3CZ 3TB (https://www.amazon.co.jp/gp/product/B06Y46G1PX)
+NAS - Synology DiskStation DS218j CS7088 6TB - Video recording storage (https://www.amazon.co.jp/gp/product/B076HJB5L1)
+TV signal converter - Portta HDMI to RGB YPbPr (https://www.amazon.co.jp/gp/product/B00A8FIQXA)
 Captured sample images are seen in Github (https://github.com/watanyoshi/TV_project/tree/main/TV_watch_system/to)
 
-Application to search the latest Japanese TV programs to find something fun
+Self-made Application to search the latest Japanese TV programs to find something fun
 TV_crawl.sh - Shell script to run on Ubuntu server once a day
 Excerpt of inside:
 python url_read24DIGInew_add.py - Crawl Japanese TV program site called tvkingdom for one day in a week
@@ -25,5 +30,6 @@ Sample files are seen in Github (https://github.com/watanyoshi/TV_project/tree/m
 My time is limited but I want to watch as many good programs as possible. Using Excel list to manage watching new JP fall dramas efficiently. Also placed some list of recorded movie list and favorite documentary program.
 2020 Fall drama.xlsx seen in Github (https://github.com/watanyoshi/TV_project/tree/main/2020_JP_Fall_drama/to)
 
-I am a fan of one of the News shows called BS NEWS and the show does not annouce the caster beforehand. I made an application to get the info from the live BBS and tweet it.
+Made another application to tweet automatically related to TV by some interesting trigger. I am a fan of one of the News shows called BS NEWS and the show does not annouce the caster beforehand. The application gets the posts in some live BBS to tell the caster name and makes a tweet the composed info without manual operation.
 It can be seen at https://twitter.com/YoshihikoWatan2, app script can be seen in Github (https://github.com/watanyoshi/TV_project/tree/main/bs1_news_tweet_app/to)
+
