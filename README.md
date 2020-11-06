@@ -14,7 +14,7 @@ NAS - Synology DiskStation DS218j CS7088 6TB - Video recording storage (https://
 TV signal converter - Portta HDMI to RGB YPbPr (https://www.amazon.co.jp/gp/product/B00A8FIQXA)
 Captured sample images are seen in Github (https://github.com/watanyoshi/TV_project/tree/main/TV_watch_system/to)
 
-Self-made Application to search the latest Japanese TV programs to find something fun
+Self-made Application to search the latest Japanese TV programs to find something fun. Some part for movies needs access to movie database then made a small clone of the database of Yahoo movie using SQlite. 
 TV_crawl.sh - Shell script to run on Ubuntu server once a day
 Excerpt of inside:
 python url_read24DIGInew_add.py - Crawl Japanese TV program site called tvkingdom for one day in a week
