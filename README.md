@@ -1,7 +1,7 @@
 # TV_project
 ## Storage of samples to show how I love Japanese TV
 
-## Japanese TV watch system via Internet
+### Japanese TV watch system via Internet
 * TV Tuner: I-O Data EX-BCTX2 (https://www.iodata.jp/product/av/tuner/ex-bctx2/)  
 * Streamin Device: Slingbox M1 (https://www.slingbox.jp/product/m1/overview.html)  
 * Remote control file made by myself: http://www.hifi-remote.com/forums/dload.php?action=file&file_id=25623  
@@ -16,7 +16,7 @@ Captured sample images are seen in Github (https://github.com/watanyoshi/TV_proj
 
 ### Self-made Application to search the latest Japanese TV programs to find something fun. Some part for movies needs access to movie database then made a small clone of the database of Yahoo movie using SQlite.  
 *TV_crawl.sh - Shell script to run on Ubuntu server once a day  
-### Excerpt of inside:  
+#### Excerpt of inside:  
 *python url_read24DIGInew_add.py - Crawl Japanese TV program site called tvkingdom for one day in a week  
 *python links_program_new_add.py - Extract links for all the programs in the scope  
 *python url_read_pro_filterDIGI_add2.py - Read the detailed info of each program and output to one text file  
