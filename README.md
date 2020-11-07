@@ -25,6 +25,7 @@ Captured sample images are seen in Github (https://github.com/watanyoshi/TV_proj
 * python list_read_multi_keywords3new.py - search the programs based on keyword file supporting multi-matching or exclusions  
 * python ym_scoreJM2.py - Focusing Japanese movies, link to movie database in Yahoo movie and sort the programs based on the review point  
 * python send_report_gmail.py Sending the email with the results of keyword match, movie list, Japanese drama, Japanese anime, Japanese historical drama, drama in western, drama in South Korean, drama in China.  
+* movie.db - Mini clone local databse of Yahoo movie (https://movies.yahoo.co.jp/) - Built once and updated daily to sync. It allows complicated custom queries (see screenshots - Movie DB - SQLite3.png, movie_query_sample1.png, movie_query_sample2.png  
 Sample files are seen in Github (https://github.com/watanyoshi/TV_project/tree/main/Search_app/to)  
 
 ### Time is limited but I want to watch as many good programs as possible. Using Excel list to manage watching new JP fall dramas efficiently. Also placed some list of recorded movie list and favorite documentary program.  
