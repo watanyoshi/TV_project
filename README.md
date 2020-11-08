@@ -12,6 +12,8 @@ The system allows to watch 60+ channels of Japanese TV program live or recorded.
 * USB HDD - I-O DATA HDD EX-HD3CZ 3TB (https://www.amazon.co.jp/gp/product/B06Y46G1PX)  
 * NAS - Synology DiskStation DS218j CS7088 6TB - Video recording storage (https://www.amazon.co.jp/gp/product/B076HJB5L1)  
 * TV signal converter - Portta HDMI to RGB YPbPr (https://www.amazon.co.jp/gp/product/B00A8FIQXA)  
+#### Personal VPN server enables using Video streaming services in Japan:  
+* Tver with VPN access.png - sample image when accesing streaming service in Japan using VPN  
 Captured sample images are seen in Github (https://github.com/watanyoshi/TV_project/tree/main/TV_watch_system/to)  
 
 ### Self-made Application to search the latest Japanese TV programs to find something fun. Some part for movies needs access to movie database then made a small clone of the database of Yahoo movie using SQlite.  
